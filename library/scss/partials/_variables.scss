@@ -23,11 +23,14 @@ $alert-green:       #e6efc2;
 $alert-blue:        #d5edf8;
 
 $black:             #323944;
+$header-color:	 	darken($black, 7%);
+$page-bg:			lighten($header-color, 2%);
 $white:             #fff;
 
+$active-link:		#FFA704;
 $light-gray:        #f8f9fa;
 $gray:              #eaedf2;
-$text-color:        #5c6b80;
+$text-color:        #CAC9D9;
 $meta-gray:         #9fa6b4;
 
 $tan:               #eceee5;
@@ -37,7 +40,7 @@ $green:             #7dd667;
 $bones-pink:        #f01d4f;
 $blue:              #2980b9;
 
-$link-color:        $bones-pink;
+$link-color:        #8CABBF;
 $link-hover:        darken($link-color, 9%);
 
 $border-color:      #ccc;
